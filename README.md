@@ -2,10 +2,10 @@
 
 
 
-- 🔭 I’m currently working on [friendship globe](https://github.com/bronygamedev/friendship-globe)
+- 🔭 I’m currently working on [first pony shooter]([https://github.com/bronygamedev/friendship-globe](https://github.com/bronygamedev/firstponyshooter))
 - 🌱 I’m currently learning godot, python
 - 👯 I’m looking to collaborate on pony games
-- 🤔 I’m looking for help with [friendship globe](https://github.com/bronygamedev/friendship-globe)
+- 🤔 I’m looking for help with [first pony shooter]([https://github.com/bronygamedev/friendship-globe](https://github.com/bronygamedev/firstponyshooter))
 - 📫 How to reach me: [discord](https://discord.gg/78RVfevpuU)
 - 😄 Pronouns: he/him
 
