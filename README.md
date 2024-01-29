@@ -3,9 +3,9 @@
 
 
 <!-- - 🔭 I’m currently working on  [first pony shooter](https://github.com/bronygamedev/firstponyshooter) -->
-- 🌱 I’m currently learning godot, python
-- 👯 I’m looking to collaborate on pony games
-<!-- - 🤔 I’m looking for help with [first pony shooter](https://github.com/bronygamedev/firstponyshooter) -->
+<!--- 👯 I’m looking to collaborate on pony games
+ - 🤔 I’m looking for help with [first pony shooter](https://github.com/bronygamedev/firstponyshooter) -->
+ - 🌱 I’m currently learning godot, python
 - 📫 How to reach me: [discord](https://discord.gg/78RVfevpuU)
 - 😄 Pronouns: he/him
 
